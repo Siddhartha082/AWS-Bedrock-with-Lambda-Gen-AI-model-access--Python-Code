@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f9fd93c0-c470-4418-9a6a-eb1348badc4f)# AWS Bedrock with Lambda Demo - Get Access to Many Gen AI Models and Use with Python Code
+# AWS Bedrock with Lambda Demo - Get Access to Many Gen AI Models and Use with Python Code
 
 we will get access to Amazon Bedrock Gen AI models. Then we will include Boto3 SDK for Bedrock in a
 Lambda layer and use it in our code. Finally, we will show different use cases using various models - 
